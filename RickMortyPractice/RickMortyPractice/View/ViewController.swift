@@ -116,10 +116,6 @@ extension ViewController{
     
     func bindViewModel(){
         viewModel.shareData()
-        viewModel.items.bind { _ in
-            DispatchQueue.main.async {
-            }
-        }
     }
     
 }
