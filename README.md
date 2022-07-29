@@ -1,6 +1,5 @@
-# Rick-Morty
 
-<h1 align="center">Rick-Morty</h1>
+<h1 align="center">Rick&Morty</h1>
 
 <h3 align="center">Rick-Morty.</br> </h3>
 
